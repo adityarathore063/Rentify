@@ -38,7 +38,7 @@ Check out the live app:
 5. Create a .env file in the root directory with your configuration settings.
 
    ```bash
-   MONGO = "MONGODB URI"
+   MONGO = "MONGODB URL"
    JWT_SECRET = "JWTSECRET"
    ```
 
