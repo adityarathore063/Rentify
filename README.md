@@ -1,6 +1,6 @@
 Rentify is a modern real estate web application built with the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for users to search, list, and explore various properties, whether for sale or rent. The application offers a user-friendly interface, advanced search options, and a seamless user experience.
 
-Check out the live app: 
+Check out the live app: https://rentify-v0wv.onrender.com
 
 ## Features
 
