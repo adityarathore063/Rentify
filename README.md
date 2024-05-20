@@ -15,7 +15,7 @@ Check out the live app:
 - 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/alphadev97/AlphaEstate.git
+   git clone https://github.com/adityarathore063/Rentify.git
    ```
 
 2. Change into the project directory:
